@@ -83,9 +83,15 @@ footer a {
 }
 .portfolio {
 	background-color: #4861C9;
+	color: #e5f503;
+}
+.portfolio a {
+	color: #d9ff00;
+	text-decoration: underline;
 }
 .advantages {
 	background-color: #6F48C9;
+	color: #ffff00;
 }
 .contacts {
 	background-color: #C948A1;
