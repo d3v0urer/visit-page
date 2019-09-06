@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #144f00;
+	font-family: "Noto Sans";
+	font-size: 4vh;
+	background-color: white;
+}
+header {
+	background-color: #48C9B0;
+}
+h2 {
+	margin: 0;
+	margin-bottom: 10px;
+	font-family: "Noto Serif";
+	font-size: 10vh;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #660000;
+}
+ul {
+	list-style: none;
+}
+header a {
+	text-align: right;
+}
+header img {
+	height: 19vh;
+}
+aside {
+	text-align: left;
+}
+div {
+	height: 100vh;
+	background-color: #A3E4D7;
+}
+section {
+}
+footer {
+	background-color: #A9CCE3;
+}
+footer img {
+	height: 29vh;
+	text-align: right;
+}
+footer a {
+	text-align: right;
+}
+.portfolio {
+	background-color: #4861C9;
+}
+.order {
+	height: 70vh;
+}
+.footer {
+	background-color: #A9CCE3;
+	height: 30vh;
+	box-shadow: 2px 1px 2px 1px black;
+}
+.portfolio {
+	background-color: #4861C9;
+}
+.advantages {
+	background-color: #6F48C9;
+}
+.contacts {
+	background-color: #C948A1;
+}
