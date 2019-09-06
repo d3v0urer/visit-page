@@ -8,6 +8,7 @@ body {
 }
 header {
 	background-color: #48C9B0;
+	height: 20vh;
 }
 h2 {
 	margin: 0;
@@ -24,35 +25,34 @@ ul {
 	list-style: none;
 }
 header div {
-	height: 30vh;
-	width: 50%;
+	height: 20vh;
+	max-width: 55vw;
 	margin: 0 auto;
 
 }
-.logo {
+.tel {
 	text-align: center;
 	float: right;
 	width: 200px;
-	padding: 0;
-	margin-right: 5vw;
 	background-color: #fff;
 	border-radius: 30px;
 	text-transform: uppercase;
 	box-shadow: 1px 1px 1px 1px black;
 	color: #000;
-	vertical-align: middle;
-}
-header div div {
-	width: 50%;
-	float: right;
+	height: 30%;
+	margin-top: 25%;
 
 }
+header div div {
+	float: right;
+}
 header img {
-	height: 29vh;
+	height: 19vh;
 	text-align: left;
 }
 aside {
 	text-align: left;
+	display: none;
 }
 li {
 	width: 200px;
@@ -90,6 +90,7 @@ footer a {
 .portfolio {
 	background-color: #4861C9;
 	color: #e5f503;
+	height: 80vh;
 }
 .portfolio a {
 	color: #d9ff00;
